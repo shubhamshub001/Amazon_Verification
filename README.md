@@ -1,0 +1,2 @@
+# Amazon_Verification
+Page_object_Model
